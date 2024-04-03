@@ -1,5 +1,5 @@
 # Geographical Metrics Analysis
-Choropleth visualisation using 4 geographical data (credit : Jose Portilla, Pierian Data pieriantraining.com)
+Choropleth visualisation using 4 geographical data (credit : Jose Portilla, Pierian Data (pieriantraining.com))
 
 ### Data :
 * 2011_US_AGRI_Exports
