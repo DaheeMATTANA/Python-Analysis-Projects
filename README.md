@@ -1,5 +1,5 @@
 # Python-Visualisation-Projects
-Visualisation Projects with Python
+Data Analysis Projects with Python
 
 ### Projects List
 * [2016 US Working Visa Analysis](https://github.com/DaheeMATTANA/Python-Visualisation-Projects/tree/main/2016%20US%20Working%20Visa%20Analysis)
