@@ -7,3 +7,4 @@ Data Analysis Projects with Python
 * [Geographical Metrics Analysis](https://github.com/DaheeMATTANA/Python-Analysis-Projects/tree/main/Geographical%20Metrics%20Analysis)
 * [Global Demographics Analysis](https://github.com/DaheeMATTANA/Python-Visualisation-Projects/tree/main/Global%20Demographics%20Analysis)
 * [NBA Statistics (2005-2014 Seasons)](https://github.com/DaheeMATTANA/Python-Visualisation-Projects/tree/main/NBA%20Analysis)
+* [Restaurant Tip Factors Analysis](https://github.com/DaheeMATTANA/Python-Analysis-Projects/tree/main/Restaurant%20Tip%20Factors%20Analysis)
