@@ -10,4 +10,4 @@ Data Analysis Projects with Python
 * [Global Demographics Analysis](https://github.com/DaheeMATTANA/Python-Analysis-Projects/blob/main/Global%20Demographics%20Analysis/Global%20Demographics%20Analysis.ipynb)
 * [NBA Statistics (2005-2014 Seasons)](https://github.com/DaheeMATTANA/Python-Analysis-Projects/blob/main/NBA%20Analysis/NBA%20Statistics%20(2005-2014%20Seasons).ipynb)
 * [Restaurant Tip Factors Analysis](https://github.com/DaheeMATTANA/Python-Analysis-Projects/blob/main/Restaurant%20Tip%20Factors%20Analysis/Restaurant%20Tip%20Factors%20Analysis.ipynb)
-* [Chicago Crime Pattern Analysis (in works)](https://github.com/DaheeMATTANA/Python-Analysis-Projects/blob/main/Chicago%20Crime%20Pattern%20Analysis/Chicago%20Crime%20Pattern%20Analysis.ipynb)
+* [Chicago Crime Pattern Analysis](https://github.com/DaheeMATTANA/Python-Analysis-Projects/blob/main/Chicago%20Crime%20Pattern%20Analysis/Chicago%20Crime%20Pattern%20Analysis.ipynb)
